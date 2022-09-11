@@ -1,2 +1,5 @@
-# array-and-string-manipulation
-array, array slicing, in-place algorithms, dynamic array
+# Array and String Manipulation
+- array
+- array slicing
+- in-place algorithms
+- dynamic array
