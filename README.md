@@ -1,5 +1,5 @@
 # Array and String Manipulation
-- array
-- array slicing
-- in-place algorithms
-- dynamic array
+- Array
+- Array Slicing
+- In-Place Algorithms
+- Dynamic Array
